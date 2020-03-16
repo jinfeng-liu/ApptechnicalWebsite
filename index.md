@@ -1,14 +1,4 @@
-## AppStore技术支持网站
-
-亲爱的用户
-
-如果您在使用我们的产品时遇到任何问题，请随时与我们联系，我们将全力全意为您解决！
-
-请发邮件与我们联系，我们将24小时为您服务！
-
-邮箱地址：jinfeng.liu.appleid@gmail.com
-
-谢谢
+## AppStore technical support website
 
 Dear user
 
